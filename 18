@@ -1,0 +1,3 @@
+git branch bugWork
+git reset C2
+git checkout main
